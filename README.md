@@ -5,11 +5,11 @@ Command line interface for vurl.ir
 ## Install
 
 ```bash
-pip install git+https://github.com/vurl/vurl-cli
+pip3 install git+https://github.com/vurl/vurl-cli
 
 # Or
 
-pip install vurl-cli
+pip3 install vurl-cli
 ```
 
 ## Usage
